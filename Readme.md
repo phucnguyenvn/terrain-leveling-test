@@ -40,13 +40,7 @@ php composer.phar install
 
 **Run Unit Test**
 
-It's required to have `phpunit` to run unit test. You can find the guide to [install here](https://phpunit.de/getting-started.html).
-
 Command:
-```
-phpunit
-```
-or
 ```
 vendor/bin/phpunit
 ```
